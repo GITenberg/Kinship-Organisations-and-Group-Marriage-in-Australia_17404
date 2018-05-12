@@ -1,0 +1,36 @@
+_repo: Kinship-Organisations-and-Group-Marriage-in-Australia_17404
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomas, Northcote Whitridge
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '7354'
+    url: http://www.gutenberg.org/2009/agents/7354
+description: ''
+gutenberg_bookshelf:
+- Australia
+- Anthropology
+gutenberg_issued: '2005-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17404'
+  lccn: 07028949
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aboriginal Australians -- Kinship'
+- !lcc 'GN'
+- !lcsh 'Kinship'
+- !lcsh 'Consanguinity'
+- !lcsh 'Ethnology -- Australia'
+- !lcsh 'Marriage -- History'
+- !lcsh 'Aboriginal Australians -- Social life and customs'
+- !lcsh 'Tribes'
+title: Kinship Organisations and Group Marriage in Australia
+url: http://www.gutenberg.org/ebooks/17404
